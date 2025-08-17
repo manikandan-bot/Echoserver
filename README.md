@@ -28,6 +28,10 @@ Testing the webserver
 
 ## PROGRAM:
 ```
+CREATED BY:T.Manikandan
+REGISTER NUMBER:212224110037
+```
+```
 from http.server import HTTPServer,BaseHTTPRequestHandler
 
 content='''
@@ -86,9 +90,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-### CLIENT OUTPUT:
+### CLIENT OUTPUT & SERVER OUTPUT:
+<img width="1555" height="815" alt="Screenshot 2025-08-17 034126" src="https://github.com/user-attachments/assets/bbf69130-9e87-46e4-aa3f-963c7b9416e3" />
 
-### SERVER OUTPUT:
 
 ## RESULT:
 The program is executed succesfully
